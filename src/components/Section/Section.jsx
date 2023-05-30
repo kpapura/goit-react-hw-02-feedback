@@ -1,4 +1,3 @@
-// import { SectionContainer } from "./Section.styled";
 
 export const Section = ({ title, children }) => (
   <div
